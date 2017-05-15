@@ -1,0 +1,90 @@
+{
+  "shareOverLan": false, 
+  "configs": [
+    {
+      "remarks": "a.usip.pro", 
+      "password": "61132358", 
+      "method": "aes-256-cfb", 
+      "server_port": 443, 
+      "server": "a.usip.pro"
+    }, 
+    {
+      "remarks": "b.usip.pro", 
+      "password": "80623507", 
+      "method": "rc4-md5", 
+      "server_port": 8388, 
+      "server": "b.usip.pro"
+    }, 
+    {
+      "remarks": "c.usip.pro", 
+      "password": "88615960", 
+      "method": "chacha20", 
+      "server_port": 23456, 
+      "server": "c.usip.pro"
+    }, 
+    {
+      "remarks": "a.jpip.pro", 
+      "password": "86226071", 
+      "method": "aes-256-cfb", 
+      "server_port": 443, 
+      "server": "a.jpip.pro"
+    }, 
+    {
+      "remarks": "b.jpip.pro", 
+      "password": "80831779", 
+      "method": "rc4-md5", 
+      "server_port": 8388, 
+      "server": "b.jpip.pro"
+    }, 
+    {
+      "remarks": "c.jpip.pro", 
+      "password": "87999383", 
+      "method": "chacha20", 
+      "server_port": 23456, 
+      "server": "c.jpip.pro"
+    }, 
+    {
+      "remarks": "a.sgip.pro", 
+      "password": "54189367", 
+      "method": "aes-256-cfb", 
+      "server_port": 443, 
+      "server": "a.sgip.pro"
+    }, 
+    {
+      "remarks": "b.sgip.pro", 
+      "password": "24642712", 
+      "method": "rc4-md5", 
+      "server_port": 8388, 
+      "server": "b.sgip.pro"
+    }, 
+    {
+      "remarks": "c.sgip.pro", 
+      "password": "06407244", 
+      "method": "chacha20", 
+      "server_port": 23456, 
+      "server": "c.sgip.pro"
+    }, 
+    {
+      "remarks": "c.usip.pro", 
+      "password": "88615960", 
+      "method": "chacha20", 
+      "server_port": 23456, 
+      "server": "c.usip.pro"
+    }, 
+    {
+      "remarks": "b.jpip.pro", 
+      "password": "80831779", 
+      "method": "rc4-md5", 
+      "server_port": 8388, 
+      "server": "b.jpip.pro"
+    }, 
+    {
+      "remarks": "a.sgip.pro", 
+      "password": "54189367", 
+      "method": "aes-256-cfb", 
+      "server_port": 443, 
+      "server": "a.sgip.pro"
+    }
+  ], 
+  "localPort": 1080
+}
